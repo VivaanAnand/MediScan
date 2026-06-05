@@ -14,6 +14,7 @@ Mediscan uses convolutional neural networks to classify breast tissue histopatho
 - VS Code
 - Google Colab
 - Github
+- OBS Studio
 
 
 ## Datasets
