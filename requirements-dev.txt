@@ -1,0 +1,6 @@
+-r requirements.txt
+jupyter==1.0.0
+ipykernel==6.29.4
+notebook==7.2.1
+nbstripout==0.7.1
+mypy==1.10.0
